@@ -24,12 +24,14 @@ Course Link: https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2
 | Techniques of Integration | Trigonometric methods, partial fractions, arc length, parametric equations, polar coordinates |
 | Exploring the Infinite | L'Hospital's Rule, improper integrals, Taylor Series |
 
-## Coursework
+## Coursework Done
 
 | Type | Count |
 |------|-------|
-| Sessions | 80 |
+| Sessions | 75 |
 | Problem Sets | 11 |
+| Exams | 4 |
+| Final Exam | 1 |
 
 ## Transcript
 
