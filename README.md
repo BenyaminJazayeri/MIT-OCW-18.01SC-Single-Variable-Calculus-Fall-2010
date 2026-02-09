@@ -28,11 +28,11 @@ Course Link: https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2
 
 | Assessment | Grade |
 |------------|-------|
-| Exam 1 | 7/9 |
-| Exam 2 | 7/7 |
-| Exam 3 | 4/8 |
-| Exam 4 | 4/4 |
-| Final Exam | 18.2/20 |
+| [Exam 1](./Session%2022%20-%20Exam%201) | 7/9 |
+| [Exam 2](./Session%2042%20-%20Exam%202) | 7/7 |
+| [Exam 3](./Session%2067%20-%20Exam%203) | 4/8 |
+| [Exam 4](./Session%2086%20-%20Exam%204) | 4/4 |
+| [Final Exam](./Session%20102%20-%20Final%20Exam) | 18.2/20 |
 
 ## My Other MIT Coursework
 
